@@ -4,3 +4,4 @@
 install - выполняет установку зависимостей.
 brain-games - запуск игры.
 publish - do something.
+lint - запуск eslint
