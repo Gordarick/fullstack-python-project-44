@@ -9,6 +9,9 @@ https://asciinema.org/connect/952097e3-e4c5-400c-abcc-a5af196d2f50
 Запись asciinema: (brain-calc)
 https://asciinema.org/a/ErvyCPkaKDrV8TQN
 
+Запись asciinema: (brain-gcd)
+https://asciinema.org/a/mkR9Cgoo4sn6u8UQ
+
 Команды:
 install - выполняет установку зависимостей.
 brain-games - запуск игры.

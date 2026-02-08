@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { startGame } from '../src/index.js'
-
+const description = 'What is the result of the expression?'
 const generateQA = () => {
 	  const operations = ['+', '-', '*']
 	  const operation = operations[Math.floor(Math.random() * operations.length)]
@@ -21,5 +21,5 @@ const generateQA = () => {
 			    }
 	  return { question, answer }
 }
-
-startGame('brain-calc', generateQA)
+console.log('Before ///////////////////////')
+startGame('What is the result of the expression?', generateQA)
