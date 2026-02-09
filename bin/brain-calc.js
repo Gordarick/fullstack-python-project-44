@@ -21,5 +21,5 @@ const generateQA = () => {
 			    }
 	  return { question, answer }
 }
-console.log('Before ///////////////////////')
-startGame('What is the result of the expression?', generateQA)
+
+startGame(description, generateQA)

@@ -12,6 +12,9 @@ https://asciinema.org/a/ErvyCPkaKDrV8TQN
 Запись asciinema: (brain-gcd)
 https://asciinema.org/a/mkR9Cgoo4sn6u8UQ
 
+Запись asciinema: (brain-progression)
+https://asciinema.org/a/WtvFiHkZ4w5pVNfB
+
 Команды:
 install - выполняет установку зависимостей.
 brain-games - запуск игры.
