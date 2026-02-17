@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/Gordarick/fullstack-python-project-44#readme",
   "dependencies": {
+    "inquirer": "^13.2.5",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
