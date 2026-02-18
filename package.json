@@ -32,8 +32,14 @@
   "devDependencies": {
     "@eslint/create-config": "^1.11.0",
     "@eslint/js": "^9.39.2",
-    "@stylistic/eslint-plugin": "^5.7.1",
-    "eslint": "^9.39.2",
-    "globals": "^17.1.0"
+    "@eslint/json": "^1.0.1",
+    "@stylistic/eslint-plugin": "^5.8.0",
+    "eslint": "^4.1.1",
+    "globals": "^17.1.0",
+    "@eslint/eslintrc": "^3.3.1",
+    "@eslint/js": "^9.34.0",
+    "@jest/globals": "^30.0.5",
+    "@stylistic/eslint-plugin": "^5.2.3",
+    "eslint-plugin-import": "^2.32.0"
   }
 }
