@@ -31,15 +31,13 @@
   },
   "devDependencies": {
     "@eslint/create-config": "^1.11.0",
-    "@eslint/js": "^9.39.2",
-    "@eslint/json": "^1.0.1",
-    "@stylistic/eslint-plugin": "^5.8.0",
-    "eslint": "^4.1.1",
-    "globals": "^17.1.0",
-    "@eslint/eslintrc": "^3.3.1",
+    "@eslint/eslintrc": "^0.1.0",
     "@eslint/js": "^9.34.0",
-    "@jest/globals": "^30.0.5",
+    "@eslint/json": "^1.0.1",
+    "@jest/globals": "^27.5.1",
     "@stylistic/eslint-plugin": "^5.2.3",
-    "eslint-plugin-import": "^2.32.0"
+    "eslint": "^10.0.1",
+    "eslint-plugin-import": "^1.14.0",
+    "globals": "^17.1.0"
   }
 }
